@@ -8,3 +8,12 @@ TechTide is a sleek, modern platform designed for tech enthusiasts and professio
 Welcome to Furilux!
 Discover the art of luxurious living with Furilux, your destination for world-class furniture design. Our carefully curated collections blend elegance with functionality, offering pieces that elevate every space. From timeless classics to modern masterpieces, Furilux brings you furniture that is crafted with precision and designed to inspire. Transform your home with our exquisite range, where comfort meets style.
 ![furiluxhomepage](https://github.com/user-attachments/assets/81693665-7ade-4718-bf99-030c036178dc)
+
+# project("Sb kit web desgin")
+
+This design features a responsive and visually engaging layout, ensuring a seamless experience on all devices. The bold gradient background enhances the modern look, while the well-structured content hierarchy directs attention to key elements like the headline and call-to-action buttons.
+
+Optimal spacing and thoughtful alignment create a clean, organized interface that's easy to navigate. Vector illustrations add a dynamic touch, enhancing engagement without overwhelming the user. The typography is both readable and stylish, complementing the design's theme, while the consistent color scheme reinforces brand identity and ensures a cohesive visual flow.
+
+Overall, this design perfectly balances aesthetics and functionality, offering a professional and polished user experience.
+![Sb kit home](honepage.png) ![Sb kit home](homepg2.png)
