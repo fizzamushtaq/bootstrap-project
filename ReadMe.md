@@ -17,3 +17,7 @@ Optimal spacing and thoughtful alignment create a clean, organized interface tha
 
 Overall, this design perfectly balances aesthetics and functionality, offering a professional and polished user experience.
 ![Sb kit home](honepage.png) ![Sb kit home](homepg2.png)
+
+The "Contact" call-to-action links are prominently displayed, encouraging user interaction. The design is responsive, ensuring a seamless experience across all devices, and the overall aesthetic is modern and professional, making it easy for users to connect with the appropriate department efficiently.
+
+![contact us](contact.png)
